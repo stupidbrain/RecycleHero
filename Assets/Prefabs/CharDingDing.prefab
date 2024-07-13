@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1661726486404550}
+  m_IsPrefabAsset: 1
+--- !u!1 &1661726486404550
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4448440772430920}
+  - component: {fileID: 114773509257956304}
+  m_Layer: 0
+  m_Name: CharDingDing
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4448440772430920
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1661726486404550}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114773509257956304
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1661726486404550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: DingDing
+  nameColor: {r: 0.3693485, g: 0.47747624, b: 0.9433962, a: 1}
+  soundEffect: {fileID: 0}
+  portraits:
+  - {fileID: 21300000, guid: ffb3e79ff2f0c9e438fb23f7cbb44aeb, type: 3}
+  - {fileID: 21300000, guid: 9b722c1b247d3fb4ba05f801139211b1, type: 3}
+  - {fileID: 21300000, guid: 148a0adb0d032c642b847bb492ddb105, type: 3}
+  - {fileID: 21300000, guid: 11389108c53c5e146aa2464279d75307, type: 3}
+  - {fileID: 21300000, guid: 4275c14932c4aa742a1e8b5e1e2b5a58, type: 3}
+  - {fileID: 21300000, guid: 7b59bcf407f38874d911065bcb6921c2, type: 3}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: 

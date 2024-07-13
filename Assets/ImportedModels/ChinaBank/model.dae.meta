@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 3b32ab73e14676744bb1d8a5c2de0174
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ID103
+    100002: ID107
+    100004: ID119
+    100006: ID125
+    100008: ID13
+    100010: ID138
+    100012: ID151
+    100014: ID164
+    100016: ID170
+    100018: ID176
+    100020: ID182
+    100022: ID188
+    100024: ID19
+    100026: ID194
+    100028: ID200
+    100030: ID204
+    100032: ID25
+    100034: ID33
+    100036: ID41
+    100038: ID47
+    100040: ID55
+    100042: ID61
+    100044: ID67
+    100046: ID71
+    100048: ID75
+    100050: ID79
+    100052: ID83
+    100054: ID87
+    100056: ID91
+    100058: ID95
+    100060: ID99
+    100062: instance_0
+    100064: //RootNode
+    100066: Sang
+    100068: skp_camera_Last_Saved_SketchUp_View
+    400000: ID103
+    400002: ID107
+    400004: ID119
+    400006: ID125
+    400008: ID13
+    400010: ID138
+    400012: ID151
+    400014: ID164
+    400016: ID170
+    400018: ID176
+    400020: ID182
+    400022: ID188
+    400024: ID19
+    400026: ID194
+    400028: ID200
+    400030: ID204
+    400032: ID25
+    400034: ID33
+    400036: ID41
+    400038: ID47
+    400040: ID55
+    400042: ID61
+    400044: ID67
+    400046: ID71
+    400048: ID75
+    400050: ID79
+    400052: ID83
+    400054: ID87
+    400056: ID91
+    400058: ID95
+    400060: ID99
+    400062: instance_0
+    400064: //RootNode
+    400066: Sang
+    400068: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: material
+    2100002: material_2
+    2100004: ba
+    2100006: material_1
+    2100008: White
+    2100010: __Burnt_Umber_1
+    2100012: __DimGray_
+    2100014: __Charcoal_
+    2300000: ID119
+    2300002: ID125
+    2300004: ID13
+    2300006: ID138
+    2300008: ID151
+    2300010: ID164
+    2300012: ID170
+    2300014: ID176
+    2300016: ID182
+    2300018: ID188
+    2300020: ID19
+    2300022: ID25
+    2300024: ID33
+    2300026: ID41
+    2300028: ID47
+    2300030: ID55
+    2300032: //RootNode
+    2300034: Sang
+    3300000: ID119
+    3300002: ID125
+    3300004: ID13
+    3300006: ID138
+    3300008: ID151
+    3300010: ID164
+    3300012: ID170
+    3300014: ID176
+    3300016: ID182
+    3300018: ID188
+    3300020: ID19
+    3300022: ID25
+    3300024: ID33
+    3300026: ID41
+    3300028: ID47
+    3300030: ID55
+    3300032: //RootNode
+    3300034: Sang
+    4300000: SketchUp
+    4300002: ID119
+    4300004: ID125
+    4300006: ID138
+    4300008: ID151
+    4300010: ID164
+    4300012: ID170
+    4300014: ID176
+    4300016: ID182
+    4300018: ID188
+    4300020: Sang
+    4300022: ID13
+    4300024: ID19
+    4300026: ID25
+    4300028: ID33
+    4300030: ID41
+    4300032: ID47
+    4300034: ID55
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White
+    second: {fileID: 2100000, guid: ad97bd52712b0304c8e56f75d2e28021, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __Burnt_Umber_1
+    second: {fileID: 2100000, guid: f55c28103f285244a915b089568c7288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __Charcoal_
+    second: {fileID: 2100000, guid: 593beaf1644b9aa46992a906aa7048b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __DimGray_
+    second: {fileID: 2100000, guid: 7dfc54c7210258e469389480b49825eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ba
+    second: {fileID: 2100000, guid: 7c3a7656ee6294e46b675f76e5e42e12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: b1da507a1956ac246937e248feb4e624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1
+    second: {fileID: 2100000, guid: fd581976084d85c479d667dfde061e0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_2
+    second: {fileID: 2100000, guid: ea63e527905fee14397b33a5ac9e8bf9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

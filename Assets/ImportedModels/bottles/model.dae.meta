@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: 5975fe1083c6fb74e833f24d1e1e8851
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group_0
+    100002: group_1
+    100004: ID100
+    100006: ID119
+    100008: ID12
+    100010: ID127
+    100012: ID133
+    100014: ID139
+    100016: ID145
+    100018: ID151
+    100020: ID157
+    100022: ID22
+    100024: ID28
+    100026: ID36
+    100028: ID42
+    100030: ID48
+    100032: ID63
+    100034: ID69
+    100036: ID75
+    100038: ID81
+    100040: ID87
+    100042: //RootNode
+    100044: skp_camera_Last_Saved_SketchUp_View
+    400000: group_0
+    400002: group_1
+    400004: ID100
+    400006: ID119
+    400008: ID12
+    400010: ID127
+    400012: ID133
+    400014: ID139
+    400016: ID145
+    400018: ID151
+    400020: ID157
+    400022: ID22
+    400024: ID28
+    400026: ID36
+    400028: ID42
+    400030: ID48
+    400032: ID63
+    400034: ID69
+    400036: ID75
+    400038: ID81
+    400040: ID87
+    400042: //RootNode
+    400044: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: material_11
+    2100002: material_3
+    2100004: material_2
+    2100006: material_1
+    2100008: material_15
+    2100010: _0010_Snow
+    2100012: material_6
+    2300000: group_0
+    2300002: group_1
+    2300004: ID100
+    2300006: ID119
+    2300008: ID12
+    2300010: ID127
+    2300012: ID133
+    2300014: ID139
+    2300016: ID145
+    2300018: ID151
+    2300020: ID157
+    2300022: ID22
+    2300024: ID28
+    2300026: ID36
+    2300028: ID42
+    2300030: ID48
+    2300032: ID63
+    2300034: ID69
+    2300036: ID75
+    2300038: ID81
+    2300040: ID87
+    2300042: //RootNode
+    3300000: group_0
+    3300002: group_1
+    3300004: ID100
+    3300006: ID119
+    3300008: ID12
+    3300010: ID127
+    3300012: ID133
+    3300014: ID139
+    3300016: ID145
+    3300018: ID151
+    3300020: ID157
+    3300022: ID22
+    3300024: ID28
+    3300026: ID36
+    3300028: ID42
+    3300030: ID48
+    3300032: ID63
+    3300034: ID69
+    3300036: ID75
+    3300038: ID81
+    3300040: ID87
+    3300042: //RootNode
+    4300000: SketchUp
+    4300002: ID119
+    4300004: ID127
+    4300006: ID133
+    4300008: ID139
+    4300010: ID145
+    4300012: ID151
+    4300014: ID157
+    4300016: group_0
+    4300018: ID12
+    4300020: ID22
+    4300022: ID28
+    4300024: ID36
+    4300026: ID42
+    4300028: ID48
+    4300030: group_1
+    4300032: ID63
+    4300034: ID69
+    4300036: ID75
+    4300038: ID81
+    4300040: ID87
+    4300042: ID100
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _0010_Snow
+    second: {fileID: 2100000, guid: bcf6d1600ce9e894980c1141c55ddb31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1
+    second: {fileID: 2100000, guid: 0b4a10639203c1c439ee2e7c5ae8137b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_11
+    second: {fileID: 2100000, guid: 4f29cc364a66da241935bc0e786610f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_15
+    second: {fileID: 2100000, guid: 2ed506ee6f92507428a9f627b1171ad5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_2
+    second: {fileID: 2100000, guid: ea63e527905fee14397b33a5ac9e8bf9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_3
+    second: {fileID: 2100000, guid: bb3f19a2713dd8f46a8c5b4e7195b24f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_6
+    second: {fileID: 2100000, guid: c61f19fee6dc7bf408bd7bf4e4a611bb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
